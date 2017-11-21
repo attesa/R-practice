@@ -1,4 +1,4 @@
-#HW3
+
 library(MASS)
 library(bestglm)
 set.seed(438)
