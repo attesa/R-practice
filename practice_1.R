@@ -97,8 +97,6 @@ for (i in 1:17) {
 #2
 ########################
 
-#setwd("K:/mou/UB/STA 545 Statistical Data Mining/Homework")
-#OLS
 
 set.seed(5509)
 train_data <-read.table('hw2_2_train.txt')
